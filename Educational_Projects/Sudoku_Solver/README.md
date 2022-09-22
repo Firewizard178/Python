@@ -6,3 +6,6 @@ Excludes the GUI Section
 I'm using the first example at [this link](https://sandiway.arizona.edu/sudoku/examples.html)
 
 This project is a sudoku solver using the [backtracking](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms#cite_note-difficult_17_clue-1) algorithm
+
+## Further Improvements (My own ideas)
+Make it easier to change your board
