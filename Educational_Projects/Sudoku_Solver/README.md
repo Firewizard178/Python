@@ -9,3 +9,5 @@ This project is a sudoku solver using the [backtracking](https://en.wikipedia.or
 
 ## Further Improvements (My own ideas)
 Make it easier to change your board
+
+Try and make a gui that allows the user to input, edit or delete values from the empty squares and show the process of the backtracking taking place
